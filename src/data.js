@@ -17,16 +17,16 @@ export const boardData = {
             ],
             members: [
                 {
-                    initials: 'AD',
-                    name: 'Aditi Deshpande'
+                    initials: 'RS',
+                    name: 'Rushabh Shah'
                 },
                 {
-                    initials: 'AP',
-                    name: 'Anushca Pekyare'
+                    initials: 'JT',
+                    name: 'John Thomas'
                 },
                 {
-                    initials: 'RP',
-                    name: 'Rupesh Prabhu'
+                    initials: 'SB',
+                    name: 'Sonali Bakshi'
                 }
             ],
             cards: [
